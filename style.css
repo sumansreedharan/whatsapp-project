@@ -1,0 +1,190 @@
+body{
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+.banner
+{
+    background-color: #128c7e;
+}
+.navigation{
+    margin-right: 2em;
+
+}
+.navigation a{
+    margin-right: 3em;
+    color: #fff;
+}
+#whatsapp
+{
+    font-size: 1em;
+
+}
+.text1
+{
+  font-weight: 400;  
+  margin-top: 4em;
+  font-size: xx-large;
+  padding-left: 4em;
+}
+#photo1
+{
+    height: 33em;
+    width: 18em;
+    margin-top: 4em;
+    display: block;
+    margin: auto;
+    margin-top: 2em;
+}
+.text2
+{
+    padding-left: 8em;
+}
+.text3
+{
+    padding-left: 8em;
+    font-weight: 300;
+}
+.platform
+{
+    padding-left: 8em;
+    margin-top: 3em;
+   
+    
+}
+#device
+{
+    padding-left: 2em;
+}
+#icons
+{
+    position: absolute;
+}
+.platform a
+{
+    color: #1CB39B;
+    text-decoration: none;
+   
+
+}
+.platform a:hover
+{
+    color: #1CB39B;
+      
+}
+.part1
+{
+    background-color:#d8e8ea;
+    margin-top: 4em;
+}
+#line1
+{
+text-align: center;
+margin-top: 2em;
+}
+#line2
+{
+text-align: center;
+margin-top: 2em;
+}
+#line3
+{
+text-align: center;
+margin-top: 2em;
+}
+#portion1
+{
+    margin-top: 4em;
+}
+.catalog
+{
+    display: block;
+    margin: auto;
+    height: 20em;
+    margin-top: 4em;
+    
+}
+.part2
+{
+    background-color: #e7f0e4;
+    
+}
+#portion2
+{
+    margin-top: 4em;
+}
+.circle
+{
+    display: block;
+    margin: auto;
+    margin-top: 4em;
+}
+#innertext1
+{
+    text-align: center;
+    margin-top: 4em;
+    color: #5E5E5E;
+}
+#innertext2
+{
+    text-align: center;
+}
+#innertext3
+{
+    text-align: center;
+}
+.footer-text
+{
+    color: #fff;
+}
+.footer1 a
+{
+    color: #fff;
+    text-decoration: none;
+}
+.footer2 a
+{
+    color: #fff;
+    text-decoration: none;
+}
+.footer3 a
+{
+    color: #fff;
+    text-decoration: none;
+}
+.footer4 a
+{
+    color: #fff;
+    text-decoration: none;
+}
+.footer1 a:hover
+{
+    color: #fff;
+}
+.footer2 a:hover
+{
+    color: #fff;
+}
+.footer3 a:hover
+{
+    color: #fff;
+}
+.footer4 a:hover
+{
+    color: #fff;
+}
+#button1
+{
+    width: 12em;
+    border-radius: 2em;
+    height: 3em;
+    margin-top: 3em;
+    border: 2px solid #1CB39B;
+    color: #128c7e;
+    
+}
+
+
+
+
+
+    
